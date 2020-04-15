@@ -1,16 +1,20 @@
 # wisataku
 
-A new Flutter project.
 
-## Getting Started
+## alikasi Info Wisata di wonosobo
 
-This project is a starting point for a Flutter application.
+# login
+![](https://github.com/aguanslamet/Wisataku_TUGAS2_Mobile/blob/master/readme/1.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# register
+![](https://github.com/aguanslamet/Wisataku_TUGAS2_Mobile/blob/master/readme/2.png?raw=true)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Homepage
+![](https://github.com/aguanslamet/Wisataku_TUGAS2_Mobile/blob/master/readme/3.png?raw=true)
+
+# Deskripsi
+![](https://github.com/aguanslamet/Wisataku_TUGAS2_Mobile/blob/master/readme/4.png?raw=true)
+
+# accountPage
+![](https://github.com/aguanslamet/Wisataku_TUGAS2_Mobile/blob/master/readme/5.png?raw=true)
